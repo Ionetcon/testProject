@@ -1,4 +1,6 @@
-// this is  a repo for me to work on my learning project and just generally to screw around builing stuff for friends
+This is a space to work on the Website for the Woodshed orlando
 
 
 --ionetcon
+
+
