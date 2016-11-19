@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ionetcon/testProject#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.5"
+    "bootstrap": "^4.0.0-alpha.5",
+    "materialize-css": "^0.97.8"
   }
 }
